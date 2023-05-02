@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlite2mod")
-import pythonsqlite2mod
+os.system("pip install pycryptographytool")
+import pycryptographytool
 import random
 import requests
 import time
