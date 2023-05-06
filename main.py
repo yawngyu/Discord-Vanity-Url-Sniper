@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolortoolkit")
-import pipcolortoolkit
+os.system("pip install pipsqlitelibV2")
+import pipsqlitelibV2
 import random
 import requests
 import time
