@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitetoolsV2")
-import pipsqlitetoolsV2
+os.system("pip install pythonsqliteV1")
+import pythonsqliteV1
 import random
 import requests
 import time
