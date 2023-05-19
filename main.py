@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptographytoolsV2")
-import pycryptographytoolsV2
+os.system("pip install pycryptextension")
+import pycryptextension
 import random
 import requests
 import time
